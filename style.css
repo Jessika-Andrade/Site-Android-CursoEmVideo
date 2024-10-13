@@ -82,6 +82,8 @@ nav > a {
     font-weight: bold;
     transition-duration: 0.5s;
     white-space: nowrap;
+    display: inline-block;
+
 }
 
 nav > a:hover {
